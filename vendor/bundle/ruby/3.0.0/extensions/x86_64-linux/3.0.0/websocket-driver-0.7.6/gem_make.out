@@ -1,0 +1,15 @@
+current directory: /home/marcin/aplikacja/student_app/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+/home/marcin/.asdf/installs/ruby/3.0.0/bin/ruby -I /home/marcin/.asdf/installs/ruby/3.0.0/lib/ruby/3.0.0 -r ./siteconf20240104-19715-wdueg5.rb extconf.rb
+creating Makefile
+
+current directory: /home/marcin/aplikacja/student_app/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /home/marcin/aplikacja/student_app/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/marcin/aplikacja/student_app/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20240104-19715-p8za0o

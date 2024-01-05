@@ -1,0 +1,15 @@
+current directory: /home/marcin/aplikacja/student_app/vendor/bundle/ruby/3.0.0/gems/stringio-3.1.0/ext/stringio
+/home/marcin/.asdf/installs/ruby/3.0.0/bin/ruby -I /home/marcin/.asdf/installs/ruby/3.0.0/lib/ruby/3.0.0 -r ./siteconf20240104-19715-sr1kks.rb extconf.rb
+creating Makefile
+
+current directory: /home/marcin/aplikacja/student_app/vendor/bundle/ruby/3.0.0/gems/stringio-3.1.0/ext/stringio
+make "DESTDIR=" clean
+
+current directory: /home/marcin/aplikacja/student_app/vendor/bundle/ruby/3.0.0/gems/stringio-3.1.0/ext/stringio
+make "DESTDIR="
+compiling stringio.c
+linking shared-object stringio.so
+
+current directory: /home/marcin/aplikacja/student_app/vendor/bundle/ruby/3.0.0/gems/stringio-3.1.0/ext/stringio
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 stringio.so ./.gem.20240104-19715-9zap1k

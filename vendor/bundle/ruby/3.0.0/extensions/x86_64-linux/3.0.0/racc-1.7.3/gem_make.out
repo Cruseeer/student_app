@@ -1,0 +1,15 @@
+current directory: /home/marcin/aplikacja/student_app/vendor/bundle/ruby/3.0.0/gems/racc-1.7.3/ext/racc/cparse
+/home/marcin/.asdf/installs/ruby/3.0.0/bin/ruby -I /home/marcin/.asdf/installs/ruby/3.0.0/lib/ruby/3.0.0 -r ./siteconf20240104-19715-tebe4p.rb extconf.rb
+creating Makefile
+
+current directory: /home/marcin/aplikacja/student_app/vendor/bundle/ruby/3.0.0/gems/racc-1.7.3/ext/racc/cparse
+make "DESTDIR=" clean
+
+current directory: /home/marcin/aplikacja/student_app/vendor/bundle/ruby/3.0.0/gems/racc-1.7.3/ext/racc/cparse
+make "DESTDIR="
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/marcin/aplikacja/student_app/vendor/bundle/ruby/3.0.0/gems/racc-1.7.3/ext/racc/cparse
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20240104-19715-vf6h/racc
